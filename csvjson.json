@@ -1,0 +1,50 @@
+[
+  {
+    "heb_sentence": "מה הלך גוחא לקנות ?",
+    "ar_sentence": "שו ראח ג'חא ישתרי ?            %s",
+    "ar_words": "חמאר",
+    "heb_words": "חמור",
+    "other_words_ar": "חמאר,אלסוק,מי",
+    "other_words_heb": "חמור,שוק,מים"
+  },
+  {
+    "heb_sentence": "מה ראה גוחא בדרך",
+    "ar_sentence": "שו שאף גוחא  בטריק % חרמיי",
+    "ar_words": "את'נין",
+    "heb_words": "שנים",
+    "other_words_ar": "ואחד,תלת,חמס,את'נין",
+    "other_words_heb": "אחד,שלוש,חמש,שנים"
+  },
+  {
+    "heb_sentence": "מה גנבוא הגנביים ?",
+    "ar_sentence": "שו סרקו אל חרמיי ?      %S",
+    "ar_words": "חמאר",
+    "heb_words": "חמור",
+    "other_words_ar": "חמאר,מי,אוכל",
+    "other_words_heb": "חמור,מים.אוכל"
+  },
+  {
+    "heb_sentence": "מי אתה ? איפה החמור ?",
+    "ar_sentence": "מין %S? וין %S?.",
+    "ar_words": "מין,וין",
+    "heb_words": "מי,איפו",
+    "other_words_ar": "ליש,קיף",
+    "other_words_heb": "למה,איך"
+  },
+  {
+    "heb_sentence": "מה סיפר הגנב ?",
+    "ar_sentence": "שו חקא אל חרמיי    %S",
+    "ar_words": "קציתו",
+    "heb_words": "הסיפור שלו",
+    "other_words_ar": "קצה,קצתו,קצץ",
+    "other_words_heb": "ספור,סיפורו,סיפורים"
+  },
+  {
+    "heb_sentence": "אני רוצה לספר לך את הסיפור שלי",
+    "ar_sentence": "%S %S %S %S",
+    "ar_words": "בדי, ג'וחא, אנא, קצתי, חמאר, אחקילק",
+    "heb_words": "רוצה, ג'וחא, אני, את הסיפור שלי, חמאר, לספר לך",
+    "other_words_ar": "בדי, ג'וחא, אנא, קצתי, חמאר, אחקילק",
+    "other_words_heb": "רוצה, ג'וחא, אני, את הסיפור שלי, חמאר, לספר לך"
+  }
+]
